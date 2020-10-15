@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Techology & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=http://simpleicons.org/icons/python.svg&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Icons/python.svg&logoColor=white&color=2bbc8a)
 ====================
 ### Our favourite dino game....Wanna play it?
 
