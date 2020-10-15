@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-curl\
--X "GET" "https://api.spotify.com/v1/me/player/currently-playing?market=ES&additional_types=episode" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer BQBTwrfIbt1f6YaWhDl9fOASGfnkw7IReSXQwnFgw_5bn5APoAvgabkTaXA05V9aeIw1ISSdQTOUuKOKdpVNPHZ7h3tkq3D-2TK9ivXGNP-PxAiKcqhnGdSXSldG3X_3-M993XTr8noBRDxYjcrMNXW9Afsp0J87Xytm"
-
+## Techology & Tools
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=http://simpleicons.org/icons/python.svg&logoColor=white&color=2bbc8a)
+====================
 ### Our favourite dino game....Wanna play it?
 
 ![image](dino.gif  "To play it turn off your internet")
