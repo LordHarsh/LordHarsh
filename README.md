@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/Cloud-Google_Cloud_Platform-informational?style=flat&logo=Google-Cloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Android_Studio-informational?style=flat&logo=Android-Studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=Tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Music-YouTube_Music-informational?style=flat&logo=YouTube-Music&logoColor=white&color=2bbc8a)
 
 
