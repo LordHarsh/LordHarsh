@@ -36,7 +36,8 @@
 
 ###### Also learning
 
-
+<!-- PDF-TO-MARKDOWN:START -->
+<!-- PDF-TO-MARKDOWN:END -->
 ### Our favourite dino game....Wanna play it?
 
 ![image](dino.gif  "To play it turn off your internet")
