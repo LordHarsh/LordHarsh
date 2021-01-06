@@ -31,25 +31,26 @@
 ![](https://img.shields.io/badge/Tool-Android_Studio-informational?style=flat&logo=Android-Studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=Tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Music-YouTube_Music-informational?style=flat&logo=YouTube-Music&logoColor=white&color=2bbc8a)
-
 ###### Also learning
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
-
-
-
-## Some of my certificates...
-
-
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)  
+<br/><br/>
+## Some of My Certificates...
 |  |  |  |
 | :-: | :-: | :-: |
 | <img src="certificates/Coursera Course- Machine Learning by Stanford.png" height="200px"> | <img src="certificates/Coursera Course- Data Science Math Skills Duke.png" height="200px"> | <img src="certificates/Coursera Course- Machine Learning for Bussiness Professional.png" height="200px">
 |<img src="certificates/Coursera Specialization- Deep Learning.png" height="200px"> | <img src="certificates/Event- Google Cloud Study Jam_ Business Application Platform.png" height="200px"> | view more>> |
 
 
+## Some of My Currently Enrolled Courses...
+|  |  |  |
+| :-: | :-: | :-: |
+| <img src="other_courses/qubitbyqubit.jpg" height="150px"> | <img src="other_courses/NPTEL_logo_128.png"> | <img src="other_courses/Executive Data Science.jpg" height="200px">
+|<img src="certificates/Coursera Specialization- Deep Learning.png" height="200px"> | <img src="certificates/Event- Google Cloud Study Jam_ Business Application Platform.png" height="200px"> | view more>> |
 
 
-### Our favourite offline dino game....Wanna play it?
+
+## Our favourite offline dino game....Wanna play it?
 
 ![image](dino.gif  "To play it turn off your internet")
 <!--
