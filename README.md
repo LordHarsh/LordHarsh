@@ -27,18 +27,22 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Octave-informational?style=flat&logo=Octave&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud_Platform-informational?style=flat&logo=Google-Cloud&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Android_Studio-informational?style=flat&logo=Android-Studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=Tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Music-YouTube_Music-informational?style=flat&logo=YouTube-Music&logoColor=white&color=2bbc8a)
 
 ###### Also learning
+![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
 
-<!-- PDF-TO-MARKDOWN:START -->
-<!-- PDF-TO-MARKDOWN:END -->
-### Our favourite dino game....Wanna play it?
+
+
+## 
+
+
+
+### Our favourite offline dino game....Wanna play it?
 
 ![image](dino.gif  "To play it turn off your internet")
 <!--
