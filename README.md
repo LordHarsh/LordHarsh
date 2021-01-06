@@ -38,8 +38,9 @@
 
 
 
-## 
+## Some of my certificates...
 
+<img src="certificates/Coursera Course- Machine Learning by Stanford.png">
 
 
 ### Our favourite offline dino game....Wanna play it?
