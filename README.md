@@ -46,10 +46,13 @@
 |  |  |  |
 | :-: | :-: | :-: |
 | <img src="other_courses/qubitbyqubit.jpg" height="150px"> | <img src="other_courses/Executive Data Science.jpg" height="150px"> | <img src="other_courses/Deeplearning_ai_tensorflow.jpg" height="150px"> |
-|<img src="other_courses/NPTEL_logo_128.png"> | <img src="other_courses/NPTEL_logo_128.png" height="150px"> | view detail of these>> |
+| Quantum Computing - The Coding School | Executive Data Science - Coursera |  TensorFlow Specialization - Coursera  |
+|  |  |  |
+|<img src="other_courses/NPTEL_logo_128.png" height="150px"> | <img src="other_courses/NPTEL_logo_128.png" height="150px"> | view detail of these>> |
+| Reinforcement Learning - NPTEL | Cryptography and Network Security - NPTEL |  You will really like these>>  |
 
 
-
+<br/><br/>
 ## Our favourite offline dino game....Wanna play it?
 
 ![image](dino.gif  "To play it turn off your internet")
