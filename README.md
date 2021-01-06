@@ -40,7 +40,13 @@
 
 ## Some of my certificates...
 
-<img src="certificates/Coursera Course- Machine Learning by Stanford.png">
+
+|  |  |  |
+| :-: | :-: | :-: |
+| <img src="certificates/Coursera Course- Machine Learning by Stanford.png" height="200px"> | <img src="certificates/Coursera Course- Data Science Math Skills Duke.png" height="200px"> | <img src="certificates/Coursera Course- Machine Learning for Bussiness Professional.png" height="200px">
+|<img src="certificates/Coursera Specialization- Deep Learning.png" height="200px"> | <img src="certificates/Event- Google Cloud Study Jam_ Business Application Platform.png" height="200px"> | view more>> |
+
+
 
 
 ### Our favourite offline dino game....Wanna play it?
