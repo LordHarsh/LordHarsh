@@ -39,7 +39,10 @@
 |  |  |  |
 | :-: | :-: | :-: |
 | <img src="certificates/Coursera Course- Machine Learning by Stanford.png" height="200px"> | <img src="certificates/Coursera Course- Data Science Math Skills Duke.png" height="200px"> | <img src="certificates/Coursera Course- Machine Learning for Bussiness Professional.png" height="200px">
+| Machine Leaning - Coursera | Data Science Math Skills - Coursera |  Machine Learning for Bussiness Professional - Coursera  |
+|  |  |  |
 |<img src="certificates/Coursera Specialization- Deep Learning.png" height="200px"> | <img src="certificates/Event- Google Cloud Study Jam_ Business Application Platform.png" height="200px"> | view more>> |
+| Deep Learning Specialization - Coursera | Google Cloud Study Jam - Google Event |  view more>>  |
 
 
 ## Some of My Currently Enrolled Courses...
