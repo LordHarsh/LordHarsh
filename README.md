@@ -45,8 +45,8 @@
 ## Some of My Currently Enrolled Courses...
 |  |  |  |
 | :-: | :-: | :-: |
-| <img src="other_courses/qubitbyqubit.jpg" height="150px"> | <img src="other_courses/NPTEL_logo_128.png"> | <img src="other_courses/Executive Data Science.jpg" height="200px">
-|<img src="certificates/Coursera Specialization- Deep Learning.png" height="200px"> | <img src="certificates/Event- Google Cloud Study Jam_ Business Application Platform.png" height="200px"> | view more>> |
+| <img src="other_courses/qubitbyqubit.jpg" height="150px"> | <img src="other_courses/Executive Data Science.jpg" height="150px"> | <img src="other_courses/Deeplearning_ai_tensorflow.jpg" height="150px"> |
+|<img src="other_courses/NPTEL_logo_128.png"> | <img src="other_courses/NPTEL_logo_128.png" height="150px"> | view detail of these>> |
 
 
 
