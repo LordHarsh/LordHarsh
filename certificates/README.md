@@ -62,8 +62,8 @@
 
 
 <br>
+
 ###### Now these are some other courses on coursera.
-<br>
 
 
 <table>
@@ -131,6 +131,30 @@
 <tbody>
   <tr>
     <th>Industrial IOT on Google Cloud Platform - Coursera</th>
+    <td></td>
+  </tr>
+  <tr><td></td><td></td></tr>
+  <tr><td></td><td></td></tr>
+</tbody>
+
+<thead>
+  <tr>
+    <th rowspan="4" width="60%"><img src="Coursera Course- Machine Learning for Bussiness Professional.png" alt="Image" width="100%"></th>
+    <td>Taught by: Google Cloud Training Team</td>
+  </tr>
+  <tr>
+    <td>Institute/Coorperate: Google Cloud</td>
+  </tr>
+  <tr>
+    <td>Duration: 4 weeks</td>
+  </tr>
+  <tr>
+    <td>Content: This course teaches hoe to manage ML tasks on Google Cloud using AutoML.<br>The name of this course is changed to "Managing Machine Learning Projects with Google Cloud"</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>Machine Learning for Bussiness Professional - Coursera</th>
     <td></td>
   </tr>
   <tr><td></td><td></td></tr>
