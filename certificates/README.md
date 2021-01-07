@@ -1,5 +1,7 @@
 # These all all my Computer Related Certificates...
 
+This is my favourite one. Here I got to make many-many projects including cat vs. dog recognition system, face recognition, art generation and more. There were also some case studies. Unluckily, I can't share the code due to the Coursera's honour policy.
+
 <table>
 <thead>
   <tr>
@@ -10,7 +12,7 @@
     <td>Institute/Coorperate: deeplearning.ai </td>
   </tr>
   <tr>
-    <td>Duration: 5 weeks</td>
+    <td>Duration: 16 weeks</td>
   </tr>
   <tr>
     <td>Content: This specialization includes varies courses-<br><dl><dd>Neural Networks and Deep Learning- The basics of DL algorithm</dd><dd>Improving Deep Neural Networks- Advanced  NN algorithms which are developed over time</dd><dd>Structuring Machine Learning Projects- Teaches when to use an algoritm and how to prioritize an algoritm over another</dd><dd>Convolution Neural Networks- DL Algorithms for images</dd><dd>Sequential Neural Networks- DL Algorithms for audio or text any other sequential data</dd></dl> </td>
@@ -29,3 +31,7 @@
   </tr>
 </tbody>
 </table>
+
+<br>
+This my first course related to machine learning.
+
