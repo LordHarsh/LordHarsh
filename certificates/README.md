@@ -184,6 +184,8 @@
 </tbody>
 </table>
 
+<br>
+
 ### Some Kaggle mini-Courses-
 ##### Kaggle is the world's largest data science community with powerful tools and resources. The amazing thing about them is that they have innumerable amount of dataset to help in making ML or data science projects. Recently they have also added courses. They are small and take a few hours to master a skill.
 
@@ -214,6 +216,33 @@
   <tr>
     <td>Natural Language Processing - Kaggle</td>
     <td>Intro to Game AI and Reinforcement Learning - Kaggle</td>
+  </tr>
+  <tr>
+    <td>Language - Python</td>
+    <td>Language - Python</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+### Lastly, Some Amazing Events and Exams-
+##### Though there have been more events and exams but these were the most interesting ones.
+
+
+<table>
+<thead>
+  <tr>
+    <th width="33%"><img src="Event- Google Cloud Study Jam_ Business Application Platform.png" alt="Image" width="100%"></th>
+    <th width="33%"><img src="Event- Google Cloud Study Jam_ Cloud AI.png" alt="Image" width="100%"></th>
+    <th width="33%"><img src="Exam- Google Analytics Individual Qualification.png" alt="Image" width="100%"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Event- Google Cloud Study Jam_ Business Application Platform</td>
+    <td>Event- Google Cloud Study Jam_ Cloud AI</td>
+    <td>Event- Exam- Google Analytics Individual Qualification</td>    
   </tr>
   <tr>
     <td>Language - Python</td>
