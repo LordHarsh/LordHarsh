@@ -1,6 +1,6 @@
 # These all all my Computer Related Certificates...
 
-This is my favourite one. Here I got to make many-many projects including cat vs. dog recognition system, face recognition, art generation and more. There were also some case studies. Unluckily, I can't share the code due to the Coursera's honour policy.
+###### This is my favourite one. Here I got to make many-many projects including cat vs. dog recognition system, face recognition, art generation and more. There were also some case studies. Unluckily, I can't share the code due to the Coursera's honour policy.
 
 <table>
 <thead>
@@ -33,11 +33,13 @@ This is my favourite one. Here I got to make many-many projects including cat vs
 </table>
 
 <br>
-This my first course related to machine learning.
+
+###### This my first course related to machine learning.
 <table>
 <thead>
+  <tr></tr>
   <tr>
-    <th rowspan="4" width="75%"><img src="Coursera Course- Machine Learning by Stanford.png" alt="Image" width="100%"></th>
+    <th rowspan="4" width = "55%"><img src="Coursera Course- Machine Learning by Stanford.png" alt="Image" width="100%"></th>
     <td>Taught by: Angrew Ng</td>
   </tr>
   <tr>
@@ -57,3 +59,9 @@ This my first course related to machine learning.
   </tr>
 </tbody>
 </table>
+
+
+
+###### Now these are some other courses on coursera.
+
+a
