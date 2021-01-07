@@ -34,7 +34,7 @@
 
 <br>
 
-###### This my first course related to machine learning.
+##### This my first course related to machine learning.
 <table>
 <thead>
   <tr></tr>
@@ -63,7 +63,7 @@
 
 <br>
 
-###### Now these are some other courses on coursera.
+#### Now these are some other courses on coursera.
 
 
 <table>
@@ -149,7 +149,7 @@
     <td>Duration: 4 weeks</td>
   </tr>
   <tr>
-    <td>Content: This course teaches hoe to manage ML tasks on Google Cloud using AutoML.<br>The name of this course is changed to "Managing Machine Learning Projects with Google Cloud"</td>
+    <td>Content: This course teaches how to manage ML tasks on Google Cloud using AutoML.<br>The name of this course is changed to "Managing Machine Learning Projects with Google Cloud"</td>
   </tr>
 </thead>
 <tbody>
@@ -160,5 +160,54 @@
   <tr><td></td><td></td></tr>
   <tr><td></td><td></td></tr>
 </tbody>
+
+<thead>
+  <tr>
+    <th rowspan="4" width="60%"><img src="Coursera Project- Using Tensorflow with Amazon Sagemaker.png" alt="Image" width="100%"></th>
+    <td>Taught by: Amit Yadav</td>
+  </tr>
+  <tr>
+    <td>Institute/Coorperate: Coursera Project Network</td>
+  </tr>
+  <tr>
+    <td>Duration: 3 hours</td>
+  </tr>
+  <tr>
+    <td>Content: This is a small guided project on working with Amazon Sagemaker. Its is a cloud ML service by AWS (Amzon Web Services) similar to Google's AutoML."</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>Coursera Project- Using Tensorflow with Amazon Sagemaker (Project) - Coursera</th>
+    <td></td>
+  </tr>
+</tbody>
 </table>
 
+#### Some Kaggle mini-Courses-
+Kaggle is the world's largest data science community with powerful tools and resources. The amazing thing about them is that they have innumerable amount of dataset to halp in making ML or data science projects. Recently they have also added courses. They are small and take a few hours to master a skill.
+
+<table>
+<thead>
+  <tr>
+    <th width="25%"><img src="Kaggle MiniCourse- Pandas.png" alt="Image" width="100%"></th>
+    <th width="25%"><img src="Kaggle MiniCourse- Deep Learning.png" alt="Image" width="100%"></th>
+    <th width="25%"><img src="Kaggle MiniCourse- Natural Language Processing.png" alt="Image" width="100%"></th>
+    <th width="25%"><img src="Kaggle MiniCourse- Intro to Game AI and Reinforcement Learning.png" alt="Image" width="100%"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Pandas (Python) - Kaggle</td>
+    <td>Deep Learning - Kaggle</td>
+    <td>Natural Language Processing - Kaggle</td>
+    <td>Intro to Game AI and Reinforcement Learning - Kaggle</td>
+  </tr>
+  <tr>
+    <td>Language - Python</td>
+    <td>Language - Python</td>
+    <td>Language - Python</td>
+    <td>Language - Python</td>
+  </tr>
+</tbody>
+</table>
