@@ -20,7 +20,8 @@ This is my favourite one. Here I got to make many-many projects including cat vs
 </thead>
 <tbody>
   <tr>
-    <th> Deep Lerning </th>
+    <th> Deep Lerning Specialization</th>
+    <td>Language - Python</td>
     <td></td>
   </tr>
   <tr>
@@ -34,4 +35,26 @@ This is my favourite one. Here I got to make many-many projects including cat vs
 
 <br>
 This my first course related to machine learning.
-
+<table>
+<thead>
+  <tr>
+    <th rowspan="4" width="75%"><img src="https://github.com/LordHarsh/LordHarsh/blob/main/certificates/Coursera%20Course-%20Machine%20Learning%20by%20Stanford.png" alt="Image" width="55" height="17"></th>
+    <th>Taught by: Angrew Ng</th>
+  </tr>
+  <tr>
+    <td>Institute/Coorperate: Stanford University</td>
+  </tr>
+  <tr>
+    <td>Duration: 12 weeks</td>
+  </tr>
+  <tr>
+    <td>Content: This course starts by telling you the basics of machine learning. Unlike manu other courses, here they tell "how" the algorithm accually works. Every week you get a kind of algotithm and learn its mathematics, progrogramming and use. They include- Linear Regression, Logistic Regression, Multiclass Classification, Neural Networks, SVMs and more.</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Machine Learning-  Coursera</td>
+    <td>Language - Octave/Matlab</td>
+  </tr>
+</tbody>
+</table>
