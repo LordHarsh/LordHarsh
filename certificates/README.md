@@ -190,22 +190,32 @@ Kaggle is the world's largest data science community with powerful tools and res
 <table>
 <thead>
   <tr>
-    <th width="25%"><img src="Kaggle MiniCourse- Pandas.png" alt="Image" width="100%"></th>
-    <th width="25%"><img src="Kaggle MiniCourse- Deep Learning.png" alt="Image" width="100%"></th>
-    <th width="25%"><img src="Kaggle MiniCourse- Natural Language Processing.png" alt="Image" width="100%"></th>
-    <th width="25%"><img src="Kaggle MiniCourse- Intro to Game AI and Reinforcement Learning.png" alt="Image" width="100%"></th>
+    <th width="50%"><img src="Kaggle MiniCourse- Pandas.png" alt="Image" width="100%"></th>
+    <th width="50%"><img src="Kaggle MiniCourse- Deep Learning.png" alt="Image" width="100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Pandas (Python) - Kaggle</td>
     <td>Deep Learning - Kaggle</td>
-    <td>Natural Language Processing - Kaggle</td>
-    <td>Intro to Game AI and Reinforcement Learning - Kaggle</td>
   </tr>
   <tr>
     <td>Language - Python</td>
     <td>Language - Python</td>
+  </tr>
+</tbody>
+  <thead>
+  <tr>
+    <th width="50%"><img src="Kaggle MiniCourse- Natural Language Processing.png" alt="Image" width="100%"></th>
+    <th width="50%"><img src="Kaggle MiniCourse- Intro to Game AI and Reinforcement Learning.png" alt="Image" width="100%"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Natural Language Processing - Kaggle</td>
+    <td>Intro to Game AI and Reinforcement Learning - Kaggle</td>
+  </tr>
+  <tr>
     <td>Language - Python</td>
     <td>Language - Python</td>
   </tr>
