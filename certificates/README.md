@@ -1,4 +1,4 @@
-# These all all my Computer Related Certificates...
+# My Computer Related Certificates...
 
 ###### This is my favourite one. Here I got to make many-many projects including cat vs. dog recognition system, face recognition, art generation and more. There were also some case studies. Unluckily, I can't share the code due to the Coursera's honour policy.
 
@@ -34,7 +34,7 @@
 
 <br>
 
-##### This my first course related to machine learning.
+#### This my first course related to machine learning.
 <table>
 <thead>
   <tr></tr>
@@ -63,7 +63,7 @@
 
 <br>
 
-#### Now these are some other courses on coursera.
+### Now these are some other courses on coursera.
 
 
 <table>
@@ -184,8 +184,8 @@
 </tbody>
 </table>
 
-#### Some Kaggle mini-Courses-
-Kaggle is the world's largest data science community with powerful tools and resources. The amazing thing about them is that they have innumerable amount of dataset to halp in making ML or data science projects. Recently they have also added courses. They are small and take a few hours to master a skill.
+### Some Kaggle mini-Courses-
+##### Kaggle is the world's largest data science community with powerful tools and resources. The amazing thing about them is that they have innumerable amount of dataset to help in making ML or data science projects. Recently they have also added courses. They are small and take a few hours to master a skill.
 
 <table>
 <thead>
