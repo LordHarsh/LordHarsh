@@ -3,7 +3,7 @@
 <table>
 <thead>
   <tr>
-    <th rowspan="4" width="75%"><img src="certificates/Coursera Specialization- Deep Learning.png" alt="Convolution Neural Networks" width="800px"></th>
+    <th rowspan="4" width="75%"><img src="Coursera Specialization- Deep Learning.png" alt="Convolution Neural Networks" width="800px"></th>
     <td>Taught by: Angrew Ng</td>
   </tr>
   <tr>
@@ -22,7 +22,7 @@
     <td></td>
   </tr>
   <tr>
-    <th colspan="2"><img src="certificates/Coursera Course- Neural Networks and Deep Learning.png" alt="Image" height="128">  <img src="certificates/Coursera Course- Improving Deep Neural Networks.png" alt="Image" height="128">  <img src="certificates/Coursera Course- Structuring Machine Learning Projects.png" alt="Image" height="128">  <img src="certificates/Coursera Course- Convolutional Neural Networks.png" alt="Image" height="128">  <img src="certificates/Coursera Course- Sequence Models.png" height="128">  </th>
+    <th colspan="2"><img src="Coursera Course- Neural Networks and Deep Learning.png" alt="Image" width="20%"><img src="Coursera Course- Improving Deep Neural Networks.png" alt="Image" width="20%"><img src="Coursera Course- Structuring Machine Learning Projects.png" alt="Image" width="20%"><img src="Coursera Course- Convolutional Neural Networks.png" alt="Image" width="20%"><img src="Coursera Course- Sequence Models.png" width="20%"></th>
   </tr>
   <tr>
     <td colspan="2"></td>
