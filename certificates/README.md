@@ -20,7 +20,7 @@
 </thead>
 <tbody>
   <tr>
-    <th> Deep Lerning Specialization</th>
+    <th> Deep Lerning Specialization - Coursera</th>
     <td>Language - Phthon</td>
   </tr>
   <tr>
@@ -54,14 +54,13 @@
 </thead>
 <tbody>
   <tr>
-    <th>Machine Learning-  Coursera</th>
+    <th>Machine Learning -  Coursera</th>
     <td>Language - Octave/Matlab</td>
   </tr>
 </tbody>
 </table>
 
 
-
+<br>
 ###### Now these are some other courses on coursera.
 
-a
