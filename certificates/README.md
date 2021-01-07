@@ -39,7 +39,7 @@
 <thead>
   <tr></tr>
   <tr>
-    <th rowspan="4" width = "55%"><img src="Coursera Course- Machine Learning by Stanford.png" alt="Image" width="100%"></th>
+    <th rowspan="4" width = "75%"><img src="Coursera Course- Machine Learning by Stanford.png" alt="Image" width="100%"></th>
     <td>Taught by: Angrew Ng</td>
   </tr>
   <tr>
@@ -63,4 +63,78 @@
 
 <br>
 ###### Now these are some other courses on coursera.
+<br>
+
+
+<table>
+<thead>
+  <tr>
+    <th rowspan="4" width="60%"><img src="Coursera Course- Data Science Math Skills Duke.png" alt="Image" width="100%"></th>
+    <td>Taught by: Daniel Egger</td>
+  </tr>
+  <tr>
+    <td>Institute/Coorperate: Duke University</td>
+  </tr>
+  <tr>
+    <td>Duration: 4 weeks</td>
+  </tr>
+  <tr>
+    <td>Content: This Course teachs you the basic mathematics required to understand data science analytics.</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>Data Science Math Skills - Coursera</th>
+    <td></td>
+  </tr>
+  <tr><td></td><td></td></tr>
+  <tr><td></td><td></td></tr>
+</tbody>
+  <thead>
+  <tr>
+    <th rowspan="4" width="60%"><img src="Coursera Course- Introduction to TensorFlow for AI, ML and DL.png" alt="Image" width="100%"></th>
+    <td>Taught by: Laurence Moroney</td>
+  </tr>
+  <tr>
+    <td>Institute/Coorperate: Deeplearning.ai</td>
+  </tr>
+  <tr>
+    <td>Duration: 4 weeks</td>
+  </tr>
+  <tr>
+    <td>Content: This is the first course in TesorFlow specialization by Deeplearning.ai. TensorFlow is an awesome framework developed  and maintained by Google to make development ML projects simple and easy.</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>Introduction to Tensorflow - Coursera</th>
+    <td>Language - Python</td>
+  </tr>
+  <tr><td></td><td></td></tr>
+  <tr><td></td><td></td></tr>
+</tbody>
+<thead>
+  <tr>
+    <th rowspan="4" width="60%"><img src="Coursera Course- Industrial IOT on Google Cloud Platform.png" alt="Image" width="100%"></th>
+    <td>Taught by: Google Cloud Training Team</td>
+  </tr>
+  <tr>
+    <td>Institute/Coorperate: Google Cloud</td>
+  </tr>
+  <tr>
+    <td>Duration: 2 weeks</td>
+  </tr>
+  <tr>
+    <td>Content: This Course teachs you how to manage IOT divices on Google cloud like managing device regirtry, pipelines, scaling, data storage and more.</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>Industrial IOT on Google Cloud Platform - Coursera</th>
+    <td></td>
+  </tr>
+  <tr><td></td><td></td></tr>
+  <tr><td></td><td></td></tr>
+</tbody>
+</table>
 
