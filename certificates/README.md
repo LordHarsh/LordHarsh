@@ -5,7 +5,7 @@ This is my favourite one. Here I got to make many-many projects including cat vs
 <table>
 <thead>
   <tr>
-    <th rowspan="4" width="75%"><img src="Coursera Specialization- Deep Learning.png" alt="Convolution Neural Networks" width="800px"></th>
+    <th rowspan="4" width="75%"><img src="Coursera Specialization- Deep Learning.png" alt="Convolution Neural Networks" width="100%"></th>
     <td>Taught by: Angrew Ng</td>
   </tr>
   <tr>
@@ -21,8 +21,7 @@ This is my favourite one. Here I got to make many-many projects including cat vs
 <tbody>
   <tr>
     <th> Deep Lerning Specialization</th>
-    <td>Language - Python</td>
-    <td></td>
+    <td>Language - Phthon</td>
   </tr>
   <tr>
     <th colspan="2"><img src="Coursera Course- Neural Networks and Deep Learning.png" alt="Image" width="20%"><img src="Coursera Course- Improving Deep Neural Networks.png" alt="Image" width="20%"><img src="Coursera Course- Structuring Machine Learning Projects.png" alt="Image" width="20%"><img src="Coursera Course- Convolutional Neural Networks.png" alt="Image" width="20%"><img src="Coursera Course- Sequence Models.png" width="20%"></th>
@@ -38,8 +37,8 @@ This my first course related to machine learning.
 <table>
 <thead>
   <tr>
-    <th rowspan="4" width="75%"><img src="https://github.com/LordHarsh/LordHarsh/blob/main/certificates/Coursera%20Course-%20Machine%20Learning%20by%20Stanford.png" alt="Image" width="55" height="17"></th>
-    <th>Taught by: Angrew Ng</th>
+    <th rowspan="4" width="75%"><img src="Coursera Course- Machine Learning by Stanford.png" alt="Image" width="100%"></th>
+    <td>Taught by: Angrew Ng</td>
   </tr>
   <tr>
     <td>Institute/Coorperate: Stanford University</td>
@@ -53,7 +52,7 @@ This my first course related to machine learning.
 </thead>
 <tbody>
   <tr>
-    <td>Machine Learning-  Coursera</td>
+    <th>Machine Learning-  Coursera</th>
     <td>Language - Octave/Matlab</td>
   </tr>
 </tbody>
