@@ -22,7 +22,7 @@
     <td></td>
   </tr>
   <tr>
-    <th colspan="2"><img src="https://github.com/LordHarsh/LordHarsh/blob/main/certificates/Coursera%20Course-%20Neural%20Networks%20and%20Deep%20Learning.png?raw=true" alt="Image" height="128">  <img src="https://github.com/LordHarsh/LordHarsh/blob/main/certificates/Coursera%20Course-%20Improving%20Deep%20Neural%20Networks.png" alt="Image" height="128">  <img src="https://github.com/LordHarsh/LordHarsh/blob/main/certificates/Coursera%20Course-%20Structuring%20Machine%20Learning%20Projects.png" alt="Image" height="128">  <img src="https://github.com/LordHarsh/LordHarsh/blob/main/certificates/Coursera%20Course-%20Structuring%20Machine%20Learning%20Projects.png" alt="Image" height="128">  <img src="https://github.com/LordHarsh/LordHarsh/blob/main/certificates/Coursera%20Course-%20Sequence%20Models.png" height="128">  </th>
+    <th colspan="2"><img src="certificates/Coursera Course- Neural Networks and Deep Learning.png" alt="Image" height="128">  <img src="certificates/Coursera Course- Improving Deep Neural Networks.png" alt="Image" height="128">  <img src="certificates/Coursera Course- Structuring Machine Learning Projects.png" alt="Image" height="128">  <img src="certificates/Coursera Course- Convolutional Neural Networks.png" alt="Image" height="128">  <img src="certificates/Coursera Course- Sequence Models.png" height="128">  </th>
   </tr>
   <tr>
     <td colspan="2"></td>
