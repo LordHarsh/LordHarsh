@@ -4,6 +4,8 @@
 
 ## Coursera
 
+###### I love Coursera. It has innumerable amount of quality courses and specialization which teaches you things that no school or collage can.
+
 ###### This is my favourite one. Here I got to make many-many projects including cat vs. dog recognition system, face recognition, art generation and more. There were also some case studies. Unluckily, I can't share the code due to the Coursera's honour policy.
 
 
@@ -26,7 +28,7 @@
 </thead>
 <tbody>
   <tr>
-    <th> Deep Lerning Specialization - Coursera</th>
+    <th><a href="https://www.coursera.org/specializations/deep-learning" title="Alt+click">Deep Lerning Specialization - Coursera</a></th>
     <td>Language - Phthon</td>
   </tr>
   <tr>
@@ -60,7 +62,7 @@
 </thead>
 <tbody>
   <tr>
-    <th>Machine Learning -  Coursera</th>
+    <th><a href="https://www.coursera.org/learn/machine-learning" title="Alt+click">Machine Learning -  Coursera</a></th>
     <td>Language - Octave/Matlab</td>
   </tr>
 </tbody>
@@ -90,7 +92,7 @@
 </thead>
 <tbody>
   <tr>
-    <th>Data Science Math Skills - Coursera</th>
+    <th><a href="https://www.coursera.org/learn/datasciencemathskills" title="Alt+click">Data Science Math Skills - Coursera</a></th>
     <td></td>
   </tr>
   <tr><td></td><td></td></tr>
@@ -113,7 +115,7 @@
 </thead>
 <tbody>
   <tr>
-    <th>Introduction to Tensorflow - Coursera</th>
+    <th><a href="https://www.coursera.org/learn/introduction-tensorflow" title="Alt+click">Introduction to Tensorflow - Coursera</a></th>
     <td>Language - Python</td>
   </tr>
   <tr><td></td><td></td></tr>
@@ -136,7 +138,7 @@
 </thead>
 <tbody>
   <tr>
-    <th>Industrial IOT on Google Cloud Platform - Coursera</th>
+    <th><a href="https://www.coursera.org/learn/iiot-google-cloud-platform" title="Alt+click">Industrial IOT on Google Cloud Platform - Coursera</a></th>
     <td></td>
   </tr>
   <tr><td></td><td></td></tr>
@@ -160,7 +162,7 @@
 </thead>
 <tbody>
   <tr>
-    <th>Machine Learning for Bussiness Professional - Coursera</th>
+    <th><a href="https://www.coursera.org/learn/machine-learning-business-professionals" title="Alt+click">Machine Learning for Bussiness Professional - Coursera</a></th>
     <td></td>
   </tr>
   <tr><td></td><td></td></tr>
@@ -184,7 +186,7 @@
 </thead>
 <tbody>
   <tr>
-    <th>Coursera Project- Using Tensorflow with Amazon Sagemaker (Project) - Coursera</th>
+    <th><a href="https://www.coursera.org/projects/sagemaker-tensorflow" title="Alt+click">Coursera Project- Using Tensorflow with Amazon Sagemaker (Project) - Coursera</a></th>
     <td></td>
   </tr>
 </tbody>
@@ -193,7 +195,7 @@
 <br>
 
 ## Some Kaggle mini-Courses-
-##### Kaggle is the world's largest data science community with powerful tools and resources. The amazing thing about them is that they have innumerable amount of dataset to help in making ML or data science projects. Recently they have also added courses. They are small and take a few hours to master a skill.
+##### [Kaggle](https://www.kaggle.com/ "Alt+click") is the world's largest data science community with powerful tools and resources. The amazing thing about them is that they have innumerable amount of dataset to help in making ML or data science projects. Recently they have also added courses. They are small and take a few hours to master a skill.
 
 <table>
 <thead>
@@ -204,8 +206,8 @@
 </thead>
 <tbody>
   <tr>
-    <td>Pandas (Python) - Kaggle</td>
-    <td>Deep Learning - Kaggle</td>
+    <th><a href="https://www.kaggle.com/learn/pandas" title="Alt+click">Pandas (Python) - Kaggle</a></th>
+    <th><a href="https://www.kaggle.com/learn/intro-to-deep-learning" title="Alt+click">Intro to Deep Learning - Kaggle</a></th>
   </tr>
   <tr>
     <td>Language - Python</td>
@@ -220,8 +222,8 @@
 </thead>
 <tbody>
   <tr>
-    <td>Natural Language Processing - Kaggle</td>
-    <td>Intro to Game AI and Reinforcement Learning - Kaggle</td>
+    <th><a href="https://www.kaggle.com/learn/natural-language-processing" title="Alt+click">Natural Language Processing - Kaggle</a></th>
+    <th><a href="https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning" title="Alt+click">Intro to Game AI and Reinforcement Learning - Kaggle</a></th>
   </tr>
   <tr>
     <td>Language - Python</td>
@@ -236,6 +238,7 @@
 ##### Though there have been more events and exams but these were the most interesting ones.
 
 
+
 <table>
 <thead>
   <tr>
@@ -246,9 +249,9 @@
 </thead>
 <tbody>
   <tr>
-    <th>Event- Google Cloud Study Jam_ Business Application Platform</th>
-    <th>Event- Google Cloud Study Jam_ Cloud AI</th>
-    <th>Event- Exam- Google Analytics Individual Qualification</th>    
+    <th><a href="https://events.withgoogle.com/cloud-studyjam/" title="Alt+click">Event- Google Cloud Study Jam_ Business Application Platform<a></th>
+    <th><a href="https://events.withgoogle.com/cloud-studyjam/" title="Alt+click">Event- Google Cloud Study Jam_ Cloud AI<a></th>
+    <th><a href="https://skillshop.exceedlms.com/student/path/2938?use_local=true" title="Alt+click">Event- Exam- Google Analytics Individual Qualification</a></th>    
   </tr>
   <tr>
     <td>It's was the 8th week of Google Cloud Study Jam where they talk about the new features of GC releated to Business management on the their platform. And there were some amazing Qwicklabs to help you understand their working.</td>
@@ -258,9 +261,8 @@
 </tbody>
 </table>
 
-
 ## A note from me...
 
-###### If you have time and want to know how machine learning and deep learning (just fancy word for advanced ML) works, its algorithm and mathematics and its core concepts then you should definately go for Coursera' Machine Learning course by Stanford University and after doing that move to Deep Learning specialization. Both of them are taught by prof. Andrew Ng. But if you don't have time and want to know how to quickly make and deploy ML models then go to <a href="http://example.com" target="_blank">Kaggle courses</a>.
+###### If you have time and want to know how machine learning and deep learning (just fancy word for advanced ML) works, its algorithm and mathematics and its core concepts then you should definately go for Coursera' Machine Learning course by Stanford University and after doing that move to Deep Learning specialization. Both of them are taught by prof. Andrew Ng. But if you don't have time and want to know how to quickly make and deploy ML models then go to [Kaggle courses](https://www.kaggle.com/learn/overview).
 
 ###### And in the end just wanna say any course is not enoung just keep following whatever is happening in the industry wheather through reading articles, watching YouTube, or attending events.
