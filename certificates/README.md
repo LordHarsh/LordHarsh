@@ -261,6 +261,6 @@
 
 ## A note from me...
 
-###### If you have time and want to know how machine learning and deep learning (just fancy word for advanced ML) works, its algorithm and mathematics and its core concepts then you should definately go for Coursera' Machine Learning course by Stanford University and after doing that move to Deep Learning specialization. Both of them are taught by prof. Andrew Ng. But if you don't have time and want to know how to quickly make and deploy ML models then go to Kaggle courses.
+###### If you have time and want to know how machine learning and deep learning (just fancy word for advanced ML) works, its algorithm and mathematics and its core concepts then you should definately go for Coursera' Machine Learning course by Stanford University and after doing that move to Deep Learning specialization. Both of them are taught by prof. Andrew Ng. But if you don't have time and want to know how to quickly make and deploy ML models then go to <a href="http://example.com" target="_blank">Kaggle courses</a>.
 
 ###### And in the end just wanna say any course is not enoung just keep following whatever is happening in the industry wheather through reading articles, watching YouTube, or attending events.
