@@ -38,7 +38,7 @@
 ## Some of My Certificates...
 |  |  |  |
 | :-: | :-: | :-: |
-| <img src="certificates/Coursera Course- Machine Learning by Stanford.png" height="200px"> | <img src="certificates/Coursera Course- Data Science Math Skills Duke.png" height="200px"> | <img src="certificates/Coursera Course- Machine Learning for Bussiness Professional.png" height="200px">
+| [<img src="certificates/Coursera Course- Machine Learning by Stanford.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#this-is-my-favourite-one-here-i-got-to-make-many-many-projects-including-cat-vs-dog-recognition-system-face-recognition-art-generation-and-more-there-were-also-some-case-studies-unluckily-i-cant-share-the-code-due-to-the-courseras-honour-policy) | [<img src="certificates/Coursera Course- Data Science Math Skills Duke.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#data-science-math) | [<img src="certificates/Coursera Course- Machine Learning for Bussiness Professional.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#machine-learning)
 | Machine Leaning - Coursera | Data Science Math Skills - Coursera |  Machine Learning for Bussiness Professional - Coursera  |
 |  |  |  |
 |<img src="certificates/Coursera Specialization- Deep Learning.png" height="200px"> | <img src="certificates/Event- Google Cloud Study Jam_ Business Application Platform.png" height="200px"> | view more>> |
