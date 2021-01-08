@@ -240,13 +240,14 @@
 </thead>
 <tbody>
   <tr>
-    <td>Event- Google Cloud Study Jam_ Business Application Platform</td>
-    <td>Event- Google Cloud Study Jam_ Cloud AI</td>
-    <td>Event- Exam- Google Analytics Individual Qualification</td>    
+    <th>Event- Google Cloud Study Jam_ Business Application Platform</th>
+    <th>Event- Google Cloud Study Jam_ Cloud AI</th>
+    <th>Event- Exam- Google Analytics Individual Qualification</th>    
   </tr>
   <tr>
-    <td>Language - Python</td>
-    <td>Language - Python</td>
+    <td>It's was the 8th week of Google Cloud Study Jam where they talk about the new features of GC releated to Business management on the their platform. And there were some amazing Qwicklabs to help you understand their working.</td>
+    <td>It's was the 8th week of Google Cloud Study Jam where they talk about the new features of GC releated to taining and management of ML models (structured and unstructured both). They also tell about managing data and its storeage. And there were some amazing Qwicklabs to help you understand their working.</td>
+    <td>Their is GAIQ certificationafter completing its exam. For this you need to prepare aand understand the concepts of web analytics on google analytics </td>
   </tr>
 </tbody>
 </table>
