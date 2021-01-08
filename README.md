@@ -48,11 +48,11 @@
 ## Some of My Currently Enrolled Courses...
 |  |  |  |
 | :-: | :-: | :-: |
-| <img src="other_courses/qubitbyqubit.jpg" height="150px"> | <img src="other_courses/Executive Data Science.jpg" height="150px"> | <img src="other_courses/Deeplearning_ai_tensorflow.jpg" height="150px"> |
-| Quantum Computing - The Coding School | Executive Data Science - Coursera |  TensorFlow Specialization - Coursera  |
+| [<img src="other_courses/qubitbyqubit.jpg" height="150px">](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#introduction-to-quantum-computing-with-ibm-quantum) | [<img src="other_courses/Executive Data Science.jpg" height="150px">](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#coursera) | [<img src="other_courses/Deeplearning_ai_tensorflow.jpg" height="150px">](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#coursera) |
+| [Quantum Computing - The Coding School](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#introduction-to-quantum-computing-with-ibm-quantum) | [Executive Data Science - Coursera](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#coursera) |  [TensorFlow Specialization - Coursera](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#coursera)  |
 |  |  |  |
-|<img src="other_courses/NPTEL_logo_128.png" height="150px"> | <img src="other_courses/NPTEL_logo_128.png" height="150px"> | view detail of these>> |
-| Reinforcement Learning - NPTEL | Cryptography and Network Security - NPTEL |  You will really like these>>  |
+|[<img src="other_courses/NPTEL_logo_128.png" height="150px">](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#swayam) | [<img src="other_courses/NPTEL_logo_128.png" height="150px">](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#swayam) | [view detail of these>>](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#work-in-progress) |
+| [Reinforcement Learning - NPTEL](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#swayam) | [Cryptography and Network Security - NPTEL](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#swayam) |  [You will really like these>>](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#work-in-progress)  |
 
 
 <br/><br/>
