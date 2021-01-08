@@ -1,6 +1,12 @@
 # My Computer Related Certificates...
 
+##### I have also added a note for you if you want to start with machine learning.
+
+## Coursera
+
 ###### This is my favourite one. Here I got to make many-many projects including cat vs. dog recognition system, face recognition, art generation and more. There were also some case studies. Unluckily, I can't share the code due to the Coursera's honour policy.
+
+
 
 <table>
 <thead>
@@ -34,7 +40,7 @@
 
 <br>
 
-#### This my first course related to machine learning.
+### This my first course related to machine learning.
 <table>
 <thead>
   <tr></tr>
@@ -186,7 +192,7 @@
 
 <br>
 
-### Some Kaggle mini-Courses-
+## Some Kaggle mini-Courses-
 ##### Kaggle is the world's largest data science community with powerful tools and resources. The amazing thing about them is that they have innumerable amount of dataset to help in making ML or data science projects. Recently they have also added courses. They are small and take a few hours to master a skill.
 
 <table>
@@ -226,7 +232,7 @@
 
 <br>
 
-### Lastly, Some Amazing Events and Exams-
+## Lastly, Some Amazing Events and Exams-
 ##### Though there have been more events and exams but these were the most interesting ones.
 
 
@@ -251,3 +257,10 @@
   </tr>
 </tbody>
 </table>
+
+
+## A note from me...
+
+###### If you have time and want to know how machine learning and deep learning (just fancy word for advanced ML) works, its algorithm and mathematics and its core concepts then you should definately go for Coursera' Machine Learning course by Stanford University and after doing that move to Deep Learning specialization. Both of them are taught by prof. Andrew Ng. But if you don't have time and want to know how to quickly make and deploy ML models then go to Kaggle courses.
+
+###### And in the end just wanna say any course is not enoung just keep following whatever is happening in the industry wheather through reading articles, watching YouTube, or attending events.
