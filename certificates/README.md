@@ -10,7 +10,7 @@
 
 
 
-<table>
+<table id="deep-learning">
 <thead>
   <tr>
     <th rowspan="4" width="75%"><img src="Coursera Specialization- Deep Learning.png" alt="Convolution Neural Networks" width="100%"></th>
@@ -260,6 +260,8 @@
   </tr>
 </tbody>
 </table>
+
+<br>
 
 ## A note from me...
 
