@@ -59,6 +59,19 @@
 
 
 <br/><br/>
+## Contact me here
+<p align="center">
+<a href="https://discord.com/users/724273880906203157/">
+<img src="https://simpleicons.org/icons/discord.svg" title="Discord" width=64 height=64>
+</a> <b>&#9</b>
+<a href="https://github.com/LordHarsh/LordHarsh/discussions/1">
+<img src="https://simpleicons.org/icons/github.svg" title="GitHub Discussions" width=64 height=64>
+</a>
+
+
+<br>
+
+
 ## Our favourite offline dino game....Wanna play it?
 
 ![image](dino.gif  "To play it turn off your internet")
