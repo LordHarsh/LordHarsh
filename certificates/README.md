@@ -44,7 +44,7 @@
 
 ### This my first course related to machine learning.
 <table>
-<thead>
+<thead id="machine-learning">
   <tr></tr>
   <tr>
     <th rowspan="4" width = "75%"><img src="Coursera Course- Machine Learning by Stanford.png" alt="Image" width="100%"></th>
@@ -75,7 +75,7 @@
 
 
 <table>
-<thead>
+<thead id="data-science-math">
   <tr>
     <th rowspan="4" width="60%"><img src="Coursera Course- Data Science Math Skills Duke.png" alt="Image" width="100%"></th>
     <td>Taught by: Daniel Egger</td>
@@ -98,7 +98,7 @@
   <tr><td></td><td></td></tr>
   <tr><td></td><td></td></tr>
 </tbody>
-  <thead>
+  <thead id="introduction-to-tensorflow">
   <tr>
     <th rowspan="4" width="60%"><img src="Coursera Course- Introduction to TensorFlow for AI, ML and DL.png" alt="Image" width="100%"></th>
     <td>Taught by: Laurence Moroney</td>
