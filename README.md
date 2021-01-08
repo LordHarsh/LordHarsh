@@ -38,7 +38,6 @@
 ## Some of My Certificates...
 |  |  |  |
 | :-: | :-: | :-: |
-| [<img src="certificates/Coursera Course- Machine Learning by Stanford.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#machine-learning) | [<img src="certificates/Coursera Course- Data Science Math Skills Duke.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#data-science-math) | [<img src="certificates/Coursera Course- Machine Learning for Bussiness Professional.png" height="200px">]()
 | [<img src="certificates/Coursera Course- Machine Learning by Stanford.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#machine-learning) | [<img src="certificates/Coursera Course- Data Science Math Skills Duke.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#data-science-math) | [<img src="certificates/Coursera Course- Machine Learning for Bussiness Professional.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#machine-learning-for-business)
 | [Machine Leaning - Coursera](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#machine-learning) | [Data Science Math Skills - Coursera](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#data-science-math) |  [Machine Learning for Bussiness Professional - Coursera](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#machine-learning-for-business)  |
 |  |  |  |
