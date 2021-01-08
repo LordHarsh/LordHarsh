@@ -145,7 +145,7 @@
   <tr><td></td><td></td></tr>
 </tbody>
 
-<thead>
+<thead id="machine-learning-for-business">
   <tr>
     <th rowspan="4" width="60%"><img src="Coursera Course- Machine Learning for Bussiness Professional.png" alt="Image" width="100%"></th>
     <td>Taught by: Google Cloud Training Team</td>
@@ -240,7 +240,7 @@
 
 
 <table>
-<thead>
+<thead id="events">
   <tr>
     <th width="33%"><img src="Event- Google Cloud Study Jam_ Business Application Platform.png" alt="Image" width="100%"></th>
     <th width="33%"><img src="Event- Google Cloud Study Jam_ Cloud AI.png" alt="Image" width="100%"></th>
