@@ -55,7 +55,7 @@ Students are selected for this course from all over the world through a statemen
 <table>
 <tr>
   <th width="50%"><img src=NPTEL.jpg width="85%"></th>
-  <td rowspan="2"><b>The two courses are-</b><br><dl><dt><a href="https://onlinecourses.nptel.ac.in/noc21_cs25/preview">Reinforcement Learning-</a></dt><dd>This is a nice branch of deep learning. After this I will be making my first project which will be a chess playing algorithm.</dd><dt><a href="https://onlinecourses.nptel.ac.in/noc21_cs16/preview">Cryptography and Network Security-</a></dt><dd>This is something that I wanted to learn from a long time.😤</dd><dt><a href="https://onlinecourses.nptel.ac.in/noc21_cs14/preview">Cloud Computing-</a></dt><dd>This is just to know more about cloud computing, how it actually works, its hardware and software, etc.</dd></dl></td>
+  <td rowspan="2"><b>The two courses are-</b><br><dl><dt><a href="https://onlinecourses.nptel.ac.in/noc21_cs25/preview" title="Alt+click">Reinforcement Learning-</a></dt><dd>This is a nice branch of deep learning. After this I will be making my first project which will be a chess playing algorithm.</dd><dt><a href="https://onlinecourses.nptel.ac.in/noc21_cs16/preview" title="Alt+click">Cryptography and Network Security-</a></dt><dd>This is something that I wanted to learn from a long time.😤</dd><dt><a href="https://onlinecourses.nptel.ac.in/noc21_cs14/preview" title="Alt+click">Cloud Computing-</a></dt><dd>This is just to know more about cloud computing, how it actually works, its hardware and software, etc.</dd></dl></td>
 </tr>
 <tr>
   <th><img src=SWAYAM.jpg  width="85%"></th>
