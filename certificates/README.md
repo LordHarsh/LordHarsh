@@ -1,6 +1,30 @@
 # My Computer Related Certificates...
 
-##### I have also added a note for you if you want to start with machine learning.
+## The Coding School (CodeConnects)
+
+<table>
+  <tr>
+    <th rowspan="4" width="70%"><img src="TCS Course- Qubit by Qubit Introduction to Quantum Computing-1.png" alt= "Quantum Computing" width="100%"></th>
+  <td>Taught by: Francisca Vasconcelos, Amir Karamlou & several other researchers and PhD students</td>
+  </tr>
+    <tr>
+    <td>Institute/Coorperate: Qubit by Qubit </td>
+  </tr>
+  <tr>
+    <td>Duration: 8 months</td>
+  </tr>
+  <tr><td>Content: This is a one of it's kind course which is divided into two semesters of three months each. Students are selected for this course from all over the world through a statement of interest. Luckily, I was one of them🎉. The first semester is about the basics requiered for Quantum Qumputing (including mathematics, physics and programming) and the second is about the actual Quantum Computing like Quantum mechanics, Quantum Algorithms, etc.</td>
+  </tr>
+  <tr>
+    <th><a href="https://www.qubitbyqubit.org/" title="Alt+click">Quantum Computing - The Coding School (Qiskit)</a></th>
+    <td>Language - Python</td>
+  </tr>
+</table>
+
+
+##### You can register for it [here](https://www.qubitbyqubit.org/register).
+
+
 
 ## Coursera
 
@@ -29,7 +53,7 @@
 <tbody>
   <tr>
     <th><a href="https://www.coursera.org/specializations/deep-learning" title="Alt+click">Deep Lerning Specialization - Coursera</a></th>
-    <td>Language - Phthon</td>
+    <td>Language - Python</td>
   </tr>
   <tr>
     <th colspan="2"><img src="Coursera Course- Neural Networks and Deep Learning.png" alt="Image" width="20%"><img src="Coursera Course- Improving Deep Neural Networks.png" alt="Image" width="20%"><img src="Coursera Course- Structuring Machine Learning Projects.png" alt="Image" width="20%"><img src="Coursera Course- Convolutional Neural Networks.png" alt="Image" width="20%"><img src="Coursera Course- Sequence Models.png" width="20%"></th>
