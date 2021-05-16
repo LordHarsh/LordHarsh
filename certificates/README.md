@@ -13,7 +13,7 @@
   <tr>
     <td>Duration: 8 months</td>
   </tr>
-  <tr><td>Content: This is a one of it's kind course which is divided into two semesters of three months each. Students are selected for this course from all over the world through a statement of interest. Luckily, I was one of them🎉. The first semester is about the basics requiered for Quantum Qumputing (including mathematics, physics and programming) and the second is about the actual Quantum Computing like Quantum mechanics, Quantum Algorithms, etc.</td>
+  <tr><td>Content: This is a one of it's kind course which is divided into two semesters of three and five months. Students are selected for this course from all over the world through a statement of interest. Luckily, I was one of them🎉. The first semester is about the basics requiered for Quantum Qumputing (including mathematics, physics and programming) and the second is about the actual Quantum Computing like Quantum mechanics, Quantum Algorithms, etc.</td>
   </tr>
   <tr>
     <th><a href="https://www.qubitbyqubit.org/" title="Alt+click">Quantum Computing - The Coding School (Qiskit)</a></th>
