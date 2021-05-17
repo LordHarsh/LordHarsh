@@ -22,7 +22,7 @@
 </table>
 
 
-##### You can register for it [here](https://www.qubitbyqubit.org/register).
+##### You can register for it [here](https://www.qubitbyqubit.org/register-camps).
 
 
 
