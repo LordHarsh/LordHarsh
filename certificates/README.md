@@ -289,9 +289,14 @@
 
 <table>
   <tr>
-    <th rowspan="4" width="40%"><img src="Plaksha Workshop- Exploring Data Science.png" alt= "Plaksha Workshop- Exploring Data Science" width="100%"></th>
+    <th width="40%"><img src="Plaksha Workshop- Exploring Data Science.png" alt= "Plaksha Workshop- Exploring Data Science" width="100%"></th>
     <td>Plaksha University had organized some workshops. I participated in two of them. One was about solving problems with data an the other was about making and using ML models.</td>
-    <th rowspan="4" width="40%"><img src="Plaksha Workshop- Introduction to Machine Learning.png" alt= "Plaksha Workshop- Introduction to Machine Learning" width="100%"></th>
+    <th width="40%"><img src="Plaksha Workshop- Introduction to Machine Learning.png" alt= "Plaksha Workshop- Introduction to Machine Learning" width="100%"></th>
+  </tr>
+  <tr>
+    <td>Exploring Data Science</td>
+    <td>Plaksha University</td>
+    <td>Introduction to Machine Learning</td>
   </tr>
 </table>
 
