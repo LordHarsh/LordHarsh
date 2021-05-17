@@ -287,6 +287,16 @@
 
 <br>
 
+<table>
+  <tr>
+    <th rowspan="4" width="40%"><img src="Plaksha Workshop- Exploring Data Science.png" alt= "Plaksha Workshop- Exploring Data Science" width="100%"></th>
+    <td>Plaksha University had organized some workshops. I participated in two of them. One was about solving problems with data an the other was about making and using ML models.</td>
+    <th rowspan="4" width="40%"><img src="Plaksha Workshop- Introduction to Machine Learning.png" alt= "Plaksha Workshop- Introduction to Machine Learning" width="100%"></th>
+  </tr>
+</table>
+
+<br>
+
 ## A note from me...
 
 ###### If you have time and want to know how machine learning and deep learning (just fancy word for advanced ML) works, its algorithm and mathematics and its core concepts then you should definately go for Coursera' Machine Learning course by Stanford University and after doing that move to Deep Learning specialization. Both of them are taught by prof. Andrew Ng. But if you don't have time and want to know how to quickly make and deploy ML models then go to [Kaggle courses](https://www.kaggle.com/learn/overview).
