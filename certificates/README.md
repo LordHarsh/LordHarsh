@@ -52,7 +52,7 @@
 </thead>
 <tbody>
   <tr>
-    <th><a href="https://www.coursera.org/specializations/deep-learning" title="Alt+click">Deep Lerning Specialization - Coursera</a></th>
+    <th><a href="https://www.coursera.org/specializations/deep-learning" title="Alt+click">Deep Learning Specialization - Coursera</a></th>
     <td>Language - Python</td>
   </tr>
   <tr>
