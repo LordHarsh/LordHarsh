@@ -1,12 +1,6 @@
 ## Hi there, I am Harsh and you can call me....Harsh (he/him/his)👋
 
 
-## Currently working on
-* A Neural style transfer project where artistic features and style of an image will be transfered to another image.
-
-* A stone paper scissors✂- Here, you can play game with your computer by showing the symbol from your hand and computer will recognize it automatically using webcom. I will be using a custom machine learning model to do so. The image data I will collect will be from Kaggle, web scrapping and possibly a custom data too.
-
-
 
 ## Planning to do next...
 * Improve the Face detection project by-
