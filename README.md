@@ -2,14 +2,6 @@
 
 
 
-## Planning to do next...
-* Improve the Face detection project by-
-   * Adding a new better trained model (probably by using `VGGFace` data).
-   * Adding support for live webcam.
-   * Its gonna be fun...🤩
-* Create a ML algorithm to play chess.
-  * Learn and understand `reinforcement learning`, then create an algorithm which can play chess with itself and create new stratigies from scratch.
-  * Then make it play chess club members.😂
 
 
 
