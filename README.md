@@ -1,77 +1,91 @@
-## Hi there, I am Harsh and you can call me....Harsh (he/him/his)👋
+# 👋 Hi there, I'm Harsh! (he/him/his)
 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BBC8A&center=true&vCenter=true&random=false&width=435&lines=Machine+Learning+Enthusiast;Deep+Learning+Explorer;Quantum+Computing+Student;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
+</div>
 
+## 🚀 About Me
+- 🧠 Passionate about Machine Learning, Deep Learning, and Quantum Computing
+- 📚 Currently diving deep into Reinforcement Learning with NPTEL
+- 🌱 Always exploring new technologies and frameworks
+- 💡 Love turning complex problems into elegant solutions
 
+## 🛠️ Technology & Tools
 
-## Techology & Tools
+### 💪 Experienced in
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a) 
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) 
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) 
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) 
+![Octave](https://img.shields.io/badge/Code-Octave-informational?style=flat&logo=Octave&logoColor=white&color=2bbc8a) 
+![Google Colab](https://img.shields.io/badge/Editor-Google_Colab-informational?style=flat&logo=Google-Colab&logoColor=white&color=2bbc8a) 
+![Jupyter](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a) 
+![GCP](https://img.shields.io/badge/Cloud-Google_Cloud_Platform-informational?style=flat&logo=Google-Cloud&logoColor=white&color=2bbc8a) 
+![Android Studio](https://img.shields.io/badge/Tool-Android_Studio-informational?style=flat&logo=Android-Studio&logoColor=white&color=2bbc8a) 
+![TensorFlow](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=Tensorflow&logoColor=white&color=2bbc8a) 
 
-###### Expirienced in
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Code-Octave-informational?style=flat&logo=Octave&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Editor-Google_Colab-informational?style=flat&logo=Google-Colab&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Cloud-Google_Cloud_Platform-informational?style=flat&logo=Google-Cloud&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Tool-Android_Studio-informational?style=flat&logo=Android-Studio&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=Tensorflow&logoColor=white&color=2bbc8a) 
+### 🌱 Currently Learning
+![Azure](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=2bbc8a)
+![VS Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
 
-###### Also learning
-![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
+## 🏆 Certifications
+<div align="center">
 
-<br/><br/>
-## Some of My Certificates...
 |  |  |  |
 | :-: | :-: | :-: |
-| [<img src="certificates/Coursera Course- Machine Learning by Stanford.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#this-my-first-course-related-to-machine-learning "Alt+click") | [<img src="certificates/TCS Course- Qubit by Qubit Introduction to Quantum Computing-1.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#the-coding-school-codeconnects "Alt+click") | [<img src="certificates/Coursera Course- Machine Learning for Bussiness Professional.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#machine-learning-for-business "Alt+click")
-| [Machine Leaning - Coursera](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#this-my-first-course-related-to-machine-learning "Alt+click") | [Quantum Computing - The Coding School](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#the-coding-school-codeconnects "Alt+click") |  [Machine Learning for Bussiness Professional - Coursera](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#machine-learning-for-business "Alt+click")  |
-|  |  |  |
-|[<img src="certificates/Coursera Specialization- Deep Learning.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#this-is-my-favourite-one-here-i-got-to-make-many-many-projects-including-cat-vs-dog-recognition-system-face-recognition-art-generation-and-more-there-were-also-some-case-studies-unluckily-i-cant-share-the-code-due-to-the-courseras-honour-policy "Alt+click") | [<img src="certificates/Event- Google Cloud Study Jam_ Business Application Platform.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#events "Alt+click") | [view more>>](https://github.com/LordHarsh/LordHarsh/tree/main/certificates#my-computer-related-certificates "Alt+click") |
-| [Deep Learning Specialization - Coursera](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#this-is-my-favourite-one-here-i-got-to-make-many-many-projects-including-cat-vs-dog-recognition-system-face-recognition-art-generation-and-more-there-were-also-some-case-studies-unluckily-i-cant-share-the-code-due-to-the-courseras-honour-policy "Alt+click") | [Google Cloud Study Jam - Google Event](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#events "Alt+click") |  [view more>>](https://github.com/LordHarsh/LordHarsh/tree/main/certificates#my-computer-related-certificates "Alt+click")  |
+| [<img src="certificates/Coursera Course- Machine Learning by Stanford.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#this-my-first-course-related-to-machine-learning "Machine Learning by Stanford") | [<img src="certificates/TCS Course- Qubit by Qubit Introduction to Quantum Computing-1.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#the-coding-school-codeconnects "Quantum Computing") | [<img src="certificates/Coursera Course- Machine Learning for Bussiness Professional.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#machine-learning-for-business "ML for Business")
+| [Machine Learning - Stanford](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#this-my-first-course-related-to-machine-learning) | [Quantum Computing - The Coding School](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#the-coding-school-codeconnects) | [ML for Business - Coursera](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#machine-learning-for-business) |
+| [<img src="certificates/Coursera Specialization- Deep Learning.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#deep-learning-specialization) | [<img src="certificates/Event- Google Cloud Study Jam_ Business Application Platform.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#events) | [![View More](https://img.shields.io/badge/View%20More-Certificates-2bbc8a?style=for-the-badge&logo=github)](https://github.com/LordHarsh/LordHarsh/tree/main/certificates#my-computer-related-certificates) |
+| [Deep Learning Specialization](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#deep-learning-specialization) | [Google Cloud Study Jam](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#events) | [View More >>](https://github.com/LordHarsh/LordHarsh/tree/main/certificates#my-computer-related-certificates) |
 
+</div>
 
-## Some of My Currently Enrolled Courses...
+## 📚 Current Learning Journey
+<div align="center">
+
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-|[<img src="other_courses/NPTEL_logo_128.png" height="150px">](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#swayam "Alt+click") | [<img src="other_courses/Executive Data Science.jpg" height="150px">](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#coursera "Alt+click") | [<img src="other_courses/Deeplearning_ai_tensorflow.jpg" height="150px">](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#coursera "Alt+click") | [view more>](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#work-in-progress "Alt+click") |
-| [Reinforcement Learning - NPTEL](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#swayam "Alt+click")  | [Executive Data Science - Coursera](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#coursera "Alt+click") |  [TensorFlow Specialization - Coursera](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#coursera "Alt+click")  |  [You will like these>>](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#work-in-progress "Alt+click")  |
+| [<img src="other_courses/NPTEL_logo_128.png" height="150px">](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#swayam) | [<img src="other_courses/Executive Data Science.jpg" height="150px">](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#coursera) | [<img src="other_courses/Deeplearning_ai_tensorflow.jpg" height="150px">](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#coursera) | [![Explore More](https://img.shields.io/badge/Explore-More-2bbc8a?style=for-the-badge&logo=github)](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#work-in-progress) |
+| [Reinforcement Learning - NPTEL](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#swayam) | [Executive Data Science](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#coursera) | [TensorFlow Specialization](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#coursera) | [Explore More >>](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#work-in-progress) |
 
+</div>
 
-<br/><br/>
-## Contact me here
-<p align="center">
-<a href="https://discord.com/users/724273880906203157/">
-<img src="https://simpleicons.org/icons/discord.svg" title="Discord" width=64 height=64>
-</a> <b>&#9</b>
-<a href="https://github.com/LordHarsh/LordHarsh/discussions/1">
-<img src="https://simpleicons.org/icons/github.svg" title="GitHub Discussions" width=64 height=64>
-</a>
+## 📊 GitHub Stats
 
+<div align="center">
 
-<br>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LordHarsh&show_icons=true&theme=gotham)](https://github.com/LordHarsh)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordHarsh&layout=compact&theme=gotham)](https://github.com/LordHarsh)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LordHarsh&theme=gotham)](https://github.com/LordHarsh)
 
-## Our favourite offline dino game....Wanna play it?
+</div>
 
-![image](dino.gif  "To play it turn off your internet😂")
+## 🤝 Let's Connect!
+<div align="center">
 
-##### Will be updating this page every 2 weeks or so.
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724273880906203157/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LordHarsh/LordHarsh/discussions/1)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-banka)
 
-<!--
-**LordHarsh/LordHarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+## 🦖 Take a Break!
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Chrome Dino Game](dino.gif "To play it turn off your internet 😂")
+
+</div>
+
+---
+<div align="center">
+
+*⭐️ From [LordHarsh](https://github.com/LordHarsh)*
+
+![Profile Views](https://komarev.com/ghpvc/?username=LordHarsh&color=2bbc8a)
+
+*Updated: December 2024*
+
+</div>
