@@ -25,10 +25,6 @@
 ![Android Studio](https://img.shields.io/badge/Tool-Android_Studio-informational?style=flat&logo=Android-Studio&logoColor=white&color=2bbc8a) 
 ![TensorFlow](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=Tensorflow&logoColor=white&color=2bbc8a) 
 
-### 🌱 Currently Learning
-![Azure](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=2bbc8a)
-![VS Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
-
 ## 🏆 Certifications
 <div align="center">
 
