@@ -25,27 +25,6 @@
 ![Android Studio](https://img.shields.io/badge/Tool-Android_Studio-informational?style=flat&logo=Android-Studio&logoColor=white&color=2bbc8a) 
 ![TensorFlow](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=Tensorflow&logoColor=white&color=2bbc8a) 
 
-## 🏆 Certifications
-<div align="center">
-
-|  |  |  |
-| :-: | :-: | :-: |
-| [<img src="certificates/Coursera Course- Machine Learning by Stanford.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#this-my-first-course-related-to-machine-learning "Machine Learning by Stanford") | [<img src="certificates/TCS Course- Qubit by Qubit Introduction to Quantum Computing-1.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#the-coding-school-codeconnects "Quantum Computing") | [<img src="certificates/Coursera Course- Machine Learning for Bussiness Professional.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#machine-learning-for-business "ML for Business")
-| [Machine Learning - Stanford](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#this-my-first-course-related-to-machine-learning) | [Quantum Computing - The Coding School](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#the-coding-school-codeconnects) | [ML for Business - Coursera](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#machine-learning-for-business) |
-| [<img src="certificates/Coursera Specialization- Deep Learning.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#deep-learning-specialization) | [<img src="certificates/Event- Google Cloud Study Jam_ Business Application Platform.png" height="200px">](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#events) | [![View More](https://img.shields.io/badge/View%20More-Certificates-2bbc8a?style=for-the-badge&logo=github)](https://github.com/LordHarsh/LordHarsh/tree/main/certificates#my-computer-related-certificates) |
-| [Deep Learning Specialization](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#deep-learning-specialization) | [Google Cloud Study Jam](https://github.com/LordHarsh/LordHarsh/blob/main/certificates/README.md#events) | [View More >>](https://github.com/LordHarsh/LordHarsh/tree/main/certificates#my-computer-related-certificates) |
-
-</div>
-
-## 📚 Current Learning Journey
-<div align="center">
-
-|  |  |  |  |
-| :-: | :-: | :-: | :-: |
-| [<img src="other_courses/NPTEL_logo_128.png" height="150px">](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#swayam) | [<img src="other_courses/Executive Data Science.jpg" height="150px">](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#coursera) | [<img src="other_courses/Deeplearning_ai_tensorflow.jpg" height="150px">](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#coursera) | [![Explore More](https://img.shields.io/badge/Explore-More-2bbc8a?style=for-the-badge&logo=github)](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#work-in-progress) |
-| [Reinforcement Learning - NPTEL](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#swayam) | [Executive Data Science](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#coursera) | [TensorFlow Specialization](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#coursera) | [Explore More >>](https://github.com/LordHarsh/LordHarsh/blob/main/other_courses/README.md#work-in-progress) |
-
-</div>
 
 ## 📊 GitHub Stats
 
