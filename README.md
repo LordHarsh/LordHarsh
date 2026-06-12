@@ -10,7 +10,7 @@
 - 🤖 I build AI systems that actually ship to production, not just live in notebooks
 - 🚀 Currently at **EmendoAI** working on multi-agent pipelines, serverless infra, and GenAI tools for the construction industry
 - 🃏 Shipped a [crypto-backed Visa card](https://halocard.co), an [AI insurance claims processor](https://medclaim-ai-six.vercel.app), and a [blueprint takeoff tool](https://layerwise-ai.vercel.app) that actually have real users
-- 🌏 Based in Chennai, open to remote opportunities
+- 🌏 Open to opportunities
 
 ## 🛠️ Technology & Tools
 
