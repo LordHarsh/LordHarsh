@@ -7,10 +7,10 @@
 </div>
 
 ## 🚀 About Me
-- 🤖 Building production AI systems at **EmendoAI** — 200+ Lambda functions, multi-agent pipelines, real infra
-- 🔬 Extended a published **IEEE FG 2021** paper on infant pose estimation during my research internship at NIT Trichy
-- 🚢 Shipped **Halocard** (crypto-backed Visa card) and **MedClaim AI** (5-agent LangGraph claims processor) to production
-- 🎓 Final year B.Tech CSE @ SRMIST Chennai — CGPA 8.75 — graduating May 2026
+- 🤖 I build AI systems that actually ship to production, not just live in notebooks
+- 🚀 Currently at **EmendoAI** working on multi-agent pipelines, serverless infra, and GenAI tools for the construction industry
+- 🃏 Shipped a [crypto-backed Visa card](https://halocard.co), an [AI insurance claims processor](https://medclaim-ai-six.vercel.app), and a [blueprint takeoff tool](https://layerwise-ai.vercel.app) that actually have real users
+- 🌏 Based in Chennai, open to remote opportunities
 
 ## 🛠️ Technology & Tools
 
