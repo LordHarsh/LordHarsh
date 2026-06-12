@@ -7,10 +7,10 @@
 </div>
 
 ## 🚀 About Me
-- 🧠 Passionate about Machine Learning, Deep Learning, and Quantum Computing
-- 📚 Currently diving deep into Reinforcement Learning with NPTEL
-- 🌱 Always exploring new technologies and frameworks
-- 💡 Love turning complex problems into elegant solutions
+- 🤖 Building production AI systems at **EmendoAI** — 200+ Lambda functions, multi-agent pipelines, real infra
+- 🔬 Extended a published **IEEE FG 2021** paper on infant pose estimation during my research internship at NIT Trichy
+- 🚢 Shipped **Halocard** (crypto-backed Visa card) and **MedClaim AI** (5-agent LangGraph claims processor) to production
+- 🎓 Final year B.Tech CSE @ SRMIST Chennai — CGPA 8.75 — graduating May 2026
 
 ## 🛠️ Technology & Tools
 
