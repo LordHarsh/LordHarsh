@@ -92,7 +92,10 @@ def words(text, size, x, y, fill, anchor='start', track=0, italic=False, extra='
                 _glyphs[key] = ('%s%d' % (key[0], len(_glyphs)), pen.getCommands())
             out.append(f'<use href="#{_glyphs[key][0]}" transform="matrix({s:.4f} 0 0 {-s:.4f} {x:.2f} {y:.2f})"/>')
         x += f.adv[g][0] * s + track
-    return f'<g fill="{fill}"{extra}>{"".join(out)}</g>'
+    # Baskervville has hairline strokes that break up at reading sizes, so each letter is thickened a little
+    # with an outline in its own colour (more for small text, which needs it most)
+    heavy = (.75 if size <= 24 else .5) / s
+    return f'<g fill="{fill}" stroke="{fill}" stroke-width="{heavy:.0f}" stroke-linejoin="round"{extra}>{"".join(out)}</g>'
 
 def esc(s):
     return s.replace('&', '&amp;').replace('<', '&lt;').replace('"', '&quot;')
