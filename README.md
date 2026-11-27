@@ -1,94 +1,69 @@
-# 👋 Hi there, I'm Harsh! (he/him/his)
+<a href="https://www.harshbanka.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Harsh Kumar Banka. Software Engineer at Quinence. I build AI agents and the production systems behind them. An ink painting of mountains in mist and a plum branch; a small bird flies in and sits on it. The full scroll is at harshbanka.tech."></picture></a>
 
-<div align="center">
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BBC8A&center=true&vCenter=true&random=false&width=435&lines=AI%2FML+%26+GenAI+Developer;Multi-Agent+Systems+Builder;Full-Stack+Engineer;Graduating+SRMIST+May+2026)](https://git.io/typing-svg)
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg"><img src="assets/work-light.svg" width="100%" alt="Work, on three hanging slips of paper. Now: Quinence (Software Engineer, Jun 2026 to present). Built Halocard: spend crypto with a Visa card. KYC, card issuing and deposits, live in production. A multi-tenant MCP server, so each customer of a B2B platform can query their own data from Claude or ChatGPT. An AI support agent on Claude Code that traces tickets to their root cause. Before: EmendoAI (Software Engineer (AI/ML), Oct 2024 to May 2026). AI agents and a Gemini document pipeline for a construction platform. An LLM test framework: regression tests across 10+ features, with no manual work. 200+ Lambda functions across 35 AWS CDK stacks, in production. Also: Research and wins (NIT Trichy, and two hackathons). Pose estimation research at NIT Trichy: HRNet and FiDIP, to monitor infant motor skills. First place, CodeFest Hackathon 2024, with an AI interview system. First place, DigiZest Hackathon 2023, with home automation you run by talking to an LLM."></picture></p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/LordHarsh/medclaim-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-medclaim-dark.svg"><img src="assets/card-medclaim-light.svg" width="49%" alt="MedClaim AI. Insurance claims, decided by five LangGraph agents: verify, extract, check the policy, flag fraud, decide. Runs on SQS-triggered Lambda with live progress. Built with LangGraph, Gemini, Lambda, SQS."></picture></a>
+  <a href="https://github.com/LordHarsh/layerwise.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-layerwise-dark.svg"><img src="assets/card-layerwise-light.svg" width="49%" alt="Layerwise. AI takeoff for construction blueprints. Gemini Vision counts and measures what is drawn, and finds the scale of the drawing by itself. Built with Next.js, FastAPI, Gemini Vision, Pydantic AI."></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/LordHarsh/news-bug"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-newsbug-dark.svg"><img src="assets/card-newsbug-light.svg" width="49%" alt="News Insights. Tracks disease outbreaks from the news. It crawls sources, pulls out diseases, places and case counts with AI, and maps them on a 3D globe. Built with Next.js, Gemini, spaCy, Mapbox."></picture></a>
+  <a href="https://github.com/LordHarsh/crm-xeno"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-crm-dark.svg"><img src="assets/card-crm-light.svg" width="49%" alt="Mini CRM. Customer segments built with a rule builder or in plain English, campaigns sent to them, and AI summaries of how each one did. Built with Next.js, Redis Streams, Google OAuth."></picture></a>
+</p>
 
-## 🚀 About Me
-- 🤖 I build AI systems that actually ship to production, not just live in notebooks
-- 🚀 Currently at **EmendoAI** working on multi-agent pipelines, serverless infra, and GenAI tools for the construction industry
-- 🃏 Shipped a [crypto-backed Visa card](https://halocard.co), an [AI insurance claims processor](https://medclaim-ai-six.vercel.app), and a [blueprint takeoff tool](https://layerwise-ai.vercel.app) that actually have real users
-- 🌏 Open to opportunities
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/year-dark.svg"><img src="assets/year-light.svg" width="100%" alt="A year of contributions on GitHub, drawn as dabs of ink, one per day. The darker the dab, the more was done that day."></picture></p>
 
-## 🛠️ Technology & Tools
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="What I work with. Languages: Python, TypeScript, JavaScript, SQL, Java, C/C++. Genai: Gemini, OpenAI, LangGraph, LangChain, Vercel AI SDK, Claude Agent SDK, Google ADK, Pinecone. Ai/ml: PyTorch, TensorFlow, scikit-learn, OpenCV, Transformers, MLflow, ZenML. Development: Next.js, React, Node.js, Express, FastAPI, Django, Spring Boot, Tailwind CSS, GraphQL. Data &amp; cloud: AWS, Azure, Vercel, Cloudflare, Supabase, Docker, PostgreSQL, MongoDB, Redis."></picture></p>
 
-### 💪 Experienced in
+<p align="center">
+  <a href="https://www.harshbanka.tech">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/harsh-banka">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.harshbanka.tech/Harsh_Kumar_Banka_Resume.pdf">Resume</a>
+</p>
 
-**Languages**
+<details>
+<summary>The same, in plain text</summary>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+**Harsh Kumar Banka.** Software Engineer at Quinence. I build AI agents and the production systems behind them.
 
-**AI / ML & GenAI**
+**Quinence**, Software Engineer, Jun 2026 to present
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+- Built Halocard: spend crypto with a Visa card. KYC, card issuing and deposits, live in production.
+- A multi-tenant MCP server, so each customer of a B2B platform can query their own data from Claude or ChatGPT.
+- An AI support agent on Claude Code that traces tickets to their root cause.
 
-**Full-Stack**
+**EmendoAI**, Software Engineer (AI/ML), Oct 2024 to May 2026
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+- AI agents and a Gemini document pipeline for a construction platform.
+- An LLM test framework: regression tests across 10+ features, with no manual work.
+- 200+ Lambda functions across 35 AWS CDK stacks, in production.
 
-**Cloud & DevOps**
+**Research and wins**, NIT Trichy, and two hackathons
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+- Pose estimation research at NIT Trichy: HRNet and FiDIP, to monitor infant motor skills.
+- First place, CodeFest Hackathon 2024, with an AI interview system.
+- First place, DigiZest Hackathon 2023, with home automation you run by talking to an LLM.
 
+**Things I built**
 
-## 📊 GitHub Stats
+- [MedClaim AI](https://github.com/LordHarsh/medclaim-ai): Insurance claims, decided by five LangGraph agents: verify, extract, check the policy, flag fraud, decide. Runs on SQS-triggered Lambda with live progress.
+- [Layerwise](https://github.com/LordHarsh/layerwise.ai): AI takeoff for construction blueprints. Gemini Vision counts and measures what is drawn, and finds the scale of the drawing by itself.
+- [News Insights](https://github.com/LordHarsh/news-bug): Tracks disease outbreaks from the news. It crawls sources, pulls out diseases, places and case counts with AI, and maps them on a 3D globe.
+- [Mini CRM](https://github.com/LordHarsh/crm-xeno): Customer segments built with a rule builder or in plain English, campaigns sent to them, and AI summaries of how each one did.
 
-<div align="center">
+**What I work with**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LordHarsh&show_icons=true&theme=gotham)](https://github.com/LordHarsh)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordHarsh&layout=compact&theme=gotham)](https://github.com/LordHarsh)
+- Languages: Python, TypeScript, JavaScript, SQL, Java, C/C++
+- Genai: Gemini, OpenAI, LangGraph, LangChain, Vercel AI SDK, Claude Agent SDK, Google ADK, Pinecone
+- Ai/ml: PyTorch, TensorFlow, scikit-learn, OpenCV, Transformers, MLflow, ZenML
+- Development: Next.js, React, Node.js, Express, FastAPI, Django, Spring Boot, Tailwind CSS, GraphQL
+- Data & cloud: AWS, Azure, Vercel, Cloudflare, Supabase, Docker, PostgreSQL, MongoDB, Redis
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LordHarsh&theme=gotham)](https://github.com/LordHarsh)
+</details>
 
-</div>
-
-## 🤝 Let's Connect!
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724273880906203157/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LordHarsh/LordHarsh/discussions/1)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-banka)
-
-</div>
-
-## 🦖 Take a Break!
-<div align="center">
-
-![Chrome Dino Game](dino.gif "To play it turn off your internet 😂")
-
-</div>
-
----
-<div align="center">
-
-*⭐️ From [LordHarsh](https://github.com/LordHarsh)*
-
-![Profile Views](https://komarev.com/ghpvc/?username=LordHarsh&color=2bbc8a)
-
-*Updated: June 2026*
-
-</div>
+<p align="center"><sub>
+  The landscape is a painting from The Metropolitan Museum of Art, public domain. The bird and her plum branch were painted with a Gemini image model.<br>
+  The type is Baskervville (OFL). Everything here is drawn by <a href="scroll/build.py">a script in this repository</a>, and the year of ink is redrawn every day.
+</sub></p>
