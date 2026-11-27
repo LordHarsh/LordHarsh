@@ -9,6 +9,9 @@ on:
 permissions:
   contents: write
 
+# one run at a time, so two runs never push the same redraw
+concurrency: ink
+
 jobs:
   ink:
     runs-on: ubuntu-latest
