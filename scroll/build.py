@@ -397,7 +397,6 @@ def slips(theme):
     c = THEMES[theme]
     w, sw, top = 1200, 344, 86
     xs = [44, 428, 812]
-    sway = [(7.3, .55, -1.9), (9.7, .7, -5.2), (8.4, .45, -3.3)]
     bodies, heights = [], []
     for (label, name, sub, points) in SLIPS:
         y = top + 58
@@ -416,9 +415,8 @@ def slips(theme):
     sh = max(heights)
     h = top + sh + 34
     title = 'Work. ' + ' '.join(f'{l.capitalize()}: {n}, {s}. ' + ' '.join(p) for l, n, s, p in SLIPS)
-    css = ''.join(f'@keyframes s{i}{{from{{transform:rotate({-a}deg)}}to{{transform:rotate({a}deg)}}}}'
-                  f'.s{i}{{transform-origin:{xs[i] + sw / 2}px 30px;animation:s{i} {d}s {dl}s ease-in-out infinite alternate}}'
-                  for i, (d, a, dl) in enumerate(sway)) + '@media (prefers-reduced-motion:reduce){*{animation:none!important}}'
+    # the slips hang still: text that turns, even by half a degree, shimmers as it is redrawn and is tiring to read
+    css = ''
     o = [svg_open(w, h, title), f'<style>{css}</style><defs>{tile(theme)}</defs>',
          f'<path d="M14 26C300 34 900 34 1186 26" fill="none" stroke="{c["line"]}" stroke-width="2.2" stroke-linecap="round" opacity=".8"/>']
     for i, body in enumerate(bodies):
