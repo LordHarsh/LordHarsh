@@ -22,9 +22,9 @@ USER = 'LordHarsh'
 
 # ---------------------------------------------------------------- the two papers
 THEMES = {
-    'light': dict(paper=(236, 226, 205), ink='#2b2622', soft='#6b6155', faint='#8d8272', red='#b5342a', seal_ink='#f3ead6',
+    'light': dict(paper=(236, 226, 205), ink='#2b2622', soft='#544b41', faint='#6e6456', red='#b5342a', seal_ink='#f3ead6',
                   slip='#f1e8d5', slip_edge='#cdbf9f', line='#3a332c'),
-    'dark': dict(paper=(22, 25, 41), ink='#e9e3d3', soft='#b3ad9f', faint='#8a8679', red='#cf4a3c', seal_ink='#f6eedc',
+    'dark': dict(paper=(22, 25, 41), ink='#e9e3d3', soft='#d8d1c1', faint='#b4ae9f', red='#cf4a3c', seal_ink='#f6eedc',
                  slip='#1f2337', slip_edge='#3a4060', line='#c9c2b0'),
 }
 
